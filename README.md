@@ -17,3 +17,4 @@ Layihənin məqsədi Git əmrlərindən istifadə edərək branch-lar (budaqlar)
 Tarix: 05.03.2026
 Bu setir feature-1 budaginda elave edildi.
 GitHub-da bir sətir əlavə olundu
+Bu sətir GitHub saytında yazıldı.
