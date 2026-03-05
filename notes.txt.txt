@@ -1,0 +1,3 @@
+1-ci setir
+2-ci setir
+3-cu setir
